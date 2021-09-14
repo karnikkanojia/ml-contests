@@ -20,5 +20,7 @@ bin-release/
 # Data Files
 asl_alphabets/
 
+# Practice Files
+mml_book/
 # VS-Code files
 .DS_Store
